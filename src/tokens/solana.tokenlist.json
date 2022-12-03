@@ -41995,6 +41995,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "D2VyhvNb195kBkx5pdbFr4ZpJy1zKoHDWWTukh8GykrV",
+      "symbol": "GKS",
+      "name": "GykAss",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/JachymSpilka/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
